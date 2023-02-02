@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2023
 
-+ Projec title:  A "data story" on the history of philosophy
++ Projec title:  Influence of Political Events on Philosophy
 + This project is conducted by Tianxiao He
 
 + Project summary: In this assignment we will study the history of philosophy dataset and our objective is to understand how the language used in philosophical text has evolved over time. Especially how does philosphy study have been affected by outside factors such as technological advancements, major political and cultural event, gender and diversity representation, etc.
